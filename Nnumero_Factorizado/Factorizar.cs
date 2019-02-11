@@ -16,18 +16,14 @@ namespace Nnumero_Factorizado
             num = 0;
             numero = 0;
         }
-        public void factor()
+        public int Factorial(int numero)
         {
-
-            for (int i = 0; i >= num; i++)
+            int fact = 1;
+            for (int i = 0; i <= num; i++)
             {
-                i = i + 1;
-
-                num = num * i;
-
-                numero = numero + num;
+                fact *= i;
             }
-            
+            return fact;
         }
     }
 }

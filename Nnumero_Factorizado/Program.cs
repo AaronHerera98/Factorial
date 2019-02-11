@@ -14,11 +14,8 @@ namespace Nnumero_Factorizado
 
             Factorizar obj = new Factorizar();
 
-            obj.num = Convert.ToInt32(Console.ReadLine());
-
-            obj.factor();
-
-            Console.WriteLine("El numero es: "+ obj.numero);
+            int num = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("El numero es: "+ obj.Factorial(num));
 
             Console.ReadKey();
 
