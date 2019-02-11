@@ -1,0 +1,7 @@
+C:\Users\aaron\source\repos\Nnumero_Factorizado\Nnumero_Factorizado\obj\Debug\Nnumero_Factorizado.csprojAssemblyReference.cache
+C:\Users\aaron\source\repos\Nnumero_Factorizado\Nnumero_Factorizado\obj\Debug\Nnumero_Factorizado.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\Nnumero_Factorizado\Nnumero_Factorizado\bin\Debug\Nnumero_Factorizado.exe.config
+C:\Users\aaron\source\repos\Nnumero_Factorizado\Nnumero_Factorizado\bin\Debug\Nnumero_Factorizado.exe
+C:\Users\aaron\source\repos\Nnumero_Factorizado\Nnumero_Factorizado\bin\Debug\Nnumero_Factorizado.pdb
+C:\Users\aaron\source\repos\Nnumero_Factorizado\Nnumero_Factorizado\obj\Debug\Nnumero_Factorizado.exe
+C:\Users\aaron\source\repos\Nnumero_Factorizado\Nnumero_Factorizado\obj\Debug\Nnumero_Factorizado.pdb
